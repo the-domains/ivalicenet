@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T19:21:51.589Z'
+datePublished: '2016-08-17T19:24:43.082Z'
 sourcePath: _posts/2016-08-17-i-feed-this-robin-every-day-now-he-waits-for-me.md
 isBasedOnUrl: 'https://www.facebook.com/LADbible/videos/2851893974857774/'
 keywords:
@@ -21,7 +21,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec3020339be1fbaf3f87e6702df2271c39d9e360.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c20ab63e098a3b1c8fa02790792df61/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft15.0-10%2Fp160x160%2F14016210_2851897418190763_101519734_n.jpg%3Foh%3Dfd691189cf1441ff663fb80426915f1a%26oe%3D5817DC34
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec3020339be1fbaf3f87e6702df2271c39d9e360.jpg
       width: 160
       height: 160
       colors:
@@ -41,8 +41,8 @@ author:
           - 136
           - 124
 via: {}
-dateModified: '2016-08-17T19:21:50.976Z'
-title: ''
+dateModified: '2016-08-17T19:24:42.209Z'
+title: Naslov
 app_links:
   - url: 'fb://page/199098633470668'
     type: android
@@ -59,7 +59,7 @@ publisher:
   name: Facebook
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
   domain: www.facebook.com
-description: '"I feed this robin every day, now he waits for me"'
+description: Podnaslov
 inLanguage: en
 starred: false
 inFeed: true
@@ -69,4 +69,15 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec3020339be1fbaf3f87e6702df2271c39d9e360.jpg)
+# Naslov
+
+Podnaslov
+![Neki pod sliko](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec3020339be1fbaf3f87e6702df2271c39d9e360.jpg)
+
+Pod prvo yadevo
+
+druga stran
+
+tretja
+
+nevem vec
