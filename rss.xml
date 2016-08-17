@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Živalsko Kraljestvo]]></title>
         <description><![CDATA[Živalsko Kraljestvo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ivalicenet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 19:17:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 19:21:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ivalicenet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&quot;I feed this robin every day, now he waits for me&quot;" src="https://scontent.xx.fbcdn.net/v/t15.0-10/p160x160/14016210_2851897418190763_101519734_n.jpg?oh=fd691189cf1441ff663fb80426915f1a&oe=5817DC34">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec3020339be1fbaf3f87e6702df2271c39d9e360.jpg">]]></description>
             <link>https://www.facebook.com/LADbible/videos/2851893974857774/</link>
             <guid isPermaLink="false">908d92aa-5031-4895-87e0-0a860e1484a5</guid>
-            <pubDate>Wed, 17 Aug 2016 19:17:36 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 19:21:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
